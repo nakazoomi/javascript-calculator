@@ -1,5 +1,3 @@
-// Diese Funktion erstellt eine constante Variable die über den querySelectorAll die ID innerhalb der eckigen Klammern speichert
-
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement;
